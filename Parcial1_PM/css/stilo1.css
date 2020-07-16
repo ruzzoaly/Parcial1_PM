@@ -1,0 +1,110 @@
+#menu
+{
+	float: left ;width: 15%  ;height:75%  ;
+
+	background-color:#F0F2F5;
+
+	color: black;
+	text-align: center;
+	font-size:30px;
+
+}
+
+
+#cabecera
+{
+
+	float: center ;
+	width: 100% ;
+	height:25%  ;
+	background-image: url("../img/cabe.jpg");
+	color: white;
+	text-align: center;
+	font-size:30px;
+}
+
+#cuerpo
+{
+	float: left ;width: 85%  ;height:75% ; background-color:#C5D020;
+	
+	color: white;
+	text-align: center;
+	font-size:30px;
+}
+
+#user
+{
+	top: -2%;
+    left: 85%;
+	float: left ;
+	width: 1%  ;
+	height:22% ; 
+	position: absolute;
+	color: white;
+	text-align: center;
+	font-size:20px;
+}
+
+#rojo
+{
+	float: left ;
+	width: 85%  ;
+	height:175% ; background-color:#FE6A59 ;
+	
+	color: black;
+	font-size:20px;
+}
+#verde
+{
+	float: left ;width: 85%  ;height:75% ; background-color:#89FF71 ;
+	
+	color: black;
+	font-size:20px;
+}
+#azul
+{
+	float: left ;width: 85%  ;height:75% ; background-color:#7ECEFB ;
+	
+	color: black;
+	font-size:20px;
+}
+#blanco
+{
+	float: left ;width: 85%  ;height:75% ; 
+	background-color:##FDFDFD;
+	color: black;
+	font-size:20px;
+}
+#gris
+{
+	float: left ;width: 85%  ;height:75% ;
+	background-color:#6D6E6A;
+	color: black;
+	font-size:20px;
+
+}
+
+
+
+
+.button {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+table th {background-color: yellow; }
+
+table tr:nth-child(odd) {background-color: #4EBAF7 ;}
+
+table tr:nth-child(even) {background-color: #D3EBF8;}
